@@ -1,0 +1,50 @@
+.card{
+    font-family: Roboto;
+    max-width:300px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px ;
+    background-color:white;
+    box-shadow: 2px 2px 2px rgb(184, 186, 189), -2px 2px 2px rgb(184, 186, 189) ;
+    background: linear-gradient(180deg, rgb(140, 140, 223) 15%, white 15%);
+}
+.Avatar{ 
+    width:50px;
+border-radius: 100% ;
+border-width: 10px;
+}
+img{
+    margin-top: 20px;
+}
+h1{
+    margin-top: 1px;
+    margin-bottom: 0.5px;
+}
+h4{
+    margin-top: 0.5px;
+}
+p{
+    margin-top:30px;
+    margin-bottom: 50px;
+    margin-left:40px;
+    margin-right:40px;
+
+}
+body{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.skills {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+.skill {
+    background-color: rgb(216, 216, 216);
+    color: rgb(85, 85, 185);
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-size: 14px;
+  }
